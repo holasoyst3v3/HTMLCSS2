@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+article {
+    padding: 40px;
+}
+header {
+    background-color: lightgray;
+    padding: 15px;
+    box-sizing: border-box;
+}
+#cornerSquare {
+    width: 75px;
+    height: 75px;
+    background-color: rgb(81, 135, 252);
+}
+.block {
+    height: 34vh;
+}
+.blueBlock {
+    background-color: rgb(81, 135, 252);
+}
+.lightGreenBlock {
+    background-color: mediumaquamarine;
+}
+.limeBlock {
+    background-color: limegreen;
+}
+.goldBlock {
+    background-color: gold;
+}
+.questionMark {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+.questionMark button {
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+}
+  
+  
